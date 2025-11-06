@@ -4,7 +4,6 @@ Klasifikasi Ujaran Kebencian (Hate Speech) dalam Bahasa Indonesia menggunakan **
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.0+-orange.svg)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
@@ -56,7 +55,7 @@ git clone https://github.com/username/hate-speech-detection.git
 ## 📝 Laporan Lengkap
 
 Untuk dokumentasi lengkap proyek ini, silakan baca:
-- 📄 [Laporan UTS (PDF)](docs/Laporan_UTS_Hate_Speech_Detection.pdf)
+- 📄 [Laporan UTS (PDF)](docs/Laporan_UTS_Hate_Speech_Detection.pdf) (soon, hehehe)
 
 ---
 
