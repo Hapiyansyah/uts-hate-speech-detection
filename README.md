@@ -9,7 +9,7 @@ Klasifikasi Ujaran Kebencian (Hate Speech) dalam Bahasa Indonesia menggunakan **
 
 ## 📌 Deskripsi Proyek
 
-Proyek ini bertujuan untuk **mendeteksi ujaran kebencian** dalam tweet berbahasa Indonesia menggunakan pendekatan Machine Learning. Dataset yang digunakan adalah **ID Hate Speech Dataset** yang terdiri dari 713 tweet dengan label:
+Proyek ini bertujuan untuk **mendeteksi ujaran kebencian** dalam tweet berbahasa Indonesia menggunakan pendekatan Machine Learning. Dataset yang digunakan terdiri dari 713 tweet dengan label:
 - **Non_HS** (Non Hate Speech): Tweet yang tidak mengandung ujaran kebencian
 - **HS** (Hate Speech): Tweet yang mengandung ujaran kebencian
 
