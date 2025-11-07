@@ -36,7 +36,7 @@ Model yang dibangun mampu mengklasifikasikan teks dengan akurasi **~88%** menggu
 
 ---
 
-## 🚀 Instalasi & Penggunaa
+## 🚀 Instalasi & Penggunaan
 ### 1️⃣ Clone Repository
 
 ```bash
@@ -55,12 +55,12 @@ git clone https://github.com/username/hate-speech-detection.git
 ## 📝 Laporan Lengkap
 
 Untuk dokumentasi lengkap proyek ini, silakan baca:
-- 📄 [Laporan UTS (PDF)](docs/Laporan_UTS_Hate_Speech_Detection.pdf) (soon, hehehe)
+- 📄 [Laporan UTS (PDF)](https://github.com/Hapiyansyah/uts-hate-speech-detection/raw/e62238638c311b3961b6dbad85937b202d3d8127/LAPORAN%20PROYEK.pdf)
 
 ---
 
 ## 📌 Catatan
 
-**Disclaimer:** Model ini dibuat untuk tujuan edukatif dan penelitian. Penggunaan untuk deteksi ujaran kebencian di dunia nyata memerlukan pengembangan lebih lanjut dengan dataset yang lebih besar dan diverse.
+**Disclaimer:** Model ini dibuat untuk tujuan edukatif. Penggunaan untuk deteksi ujaran kebencian di dunia nyata memerlukan pengembangan lebih lanjut dengan dataset yang lebih besar dan diverse.
 
 ---
